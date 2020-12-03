@@ -2,7 +2,7 @@
 
 Перейдите по [ссылке](https://to-do-list-black.vercel.app/).
 
-## Используемые команды
+## Используемые команды в проекте:
 
 Для запуска проекта используйте команду:
 
@@ -17,7 +17,7 @@
 ### `npm run build`
 
 
-#Дополнительная информация 
+# Дополнительная информация
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
